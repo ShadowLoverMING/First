@@ -1,8 +1,8 @@
 # First
 first code
--第一个程序
+- 第一个程序
 `hello world`
--选择代码
+- 选择代码
 ```
 /*   求方程的根 */
 #include"stdio.h"
