@@ -1,7 +1,7 @@
 # First
 first code
 - 第一个程序
-`hello world`
+ `hello world`
 - 选择代码
 ```
 /*   求方程的根 */
